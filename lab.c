@@ -18,7 +18,7 @@ int main(){
       case 'c':
 
       case  'C':
-      area= sideLength*sideLength*
+      area= sideLength*sideLength;
       break;
       default: 
       printf("Wrong Input");

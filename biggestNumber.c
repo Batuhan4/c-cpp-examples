@@ -3,7 +3,6 @@
 #include <stdio.h>
 
 int main() {
-   setbuf(stdout, NULL);
    int max=0,a=0,b=0,c=0,num=0,biggetNumber=0,middle=0,min=0;
    printf("enter 3 digit number: ");
    scanf("%d",&num);
